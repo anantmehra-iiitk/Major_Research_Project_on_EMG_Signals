@@ -21,5 +21,4 @@ Why this research:
 a.	Myopathy
 b.	Amyotrophic Lateral Sclerosis
 2)	EMG Signal Analysis by Doctors is Time Consuming and Sometimes also inaccurate.
-3)	
 
