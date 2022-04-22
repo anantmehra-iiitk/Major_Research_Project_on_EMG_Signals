@@ -6,7 +6,7 @@
 1)	We propose proposes a comparison between different neural network models, using multilayer perceptron (MLPs) and recurrent neural network (RNN) models, for predicting
 Parkinson’s disease electromyography (EMG) signals, to anticipate resulting resting tremor patterns.
 2)	Functional electrical stimulation (FES) has been proposed by many authors as a potential method for reducing and controlling the pathological tremor. However, the feasibility and accuracy of FES depend heavily on the estimation of amplitude and frequency of the involuntary tremor signals, and the side-effect of FES on patient’s voluntary movements.
-3)	
+3)	In this work, we propose to evaluate and compare different neural network architectures, using MLPs, LSTM, and combined models to predict PD’s sEMG signals. Our  primary target is to be able to successfully predict a full window of the tremor pattern (approximately 0.2s) so that we can use it later for FES control optimization.
 4)	Convectional WVG Graphs are sensitive to noise and requires high computational powers since it is complex.
 5)	Two parameters that are targeted for getting more accuracy in the WVG Graph and these two Parameters are:
 a.	Penetrable Distance 
