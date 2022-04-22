@@ -38,5 +38,5 @@ The adaptive network-based fuzzy inference system (ANFIS) ﬁrst introduced by J
 which carries out the inference procedure upon the rules to get a reasonable output or conclusion
 
 
-Result-:
+## Result-:
 The comparative analysis sug- gests that the ANFIS modelling is superior to the DFNN and MLPNN in at least three points: slightly higher recognition rate; insensitivity to overtraining; and consistent outputs demonstrating higher reliability.
