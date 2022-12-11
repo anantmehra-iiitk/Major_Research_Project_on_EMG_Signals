@@ -56,7 +56,7 @@ def read_data(data="kaggle_data.xls", n = 0):
     print(len(y))
 
     return X, y
-
+    #processing
 '''
 # https://towardsdatascience.com/how-to-save-and-load-a-model-in-pytorch-with-a-complete-example-c2920e617dee
 def save_ckp(state, is_best, checkpoint_path, best_model_path):
